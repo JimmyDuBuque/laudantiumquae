@@ -1,0 +1,37 @@
+{
+  "name": "laudantiumquae",
+  "version": "1.0.0",
+  "description": "Highfi, a react chat widget for web3",
+  "main": "index.js",
+  "author": "ZechariahProsacco",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/react-fontawesome": "^0.1.18",
+    "@web3-onboard/core": "^2.3.1",
+    "@web3-onboard/injected-wallets": "^2.0.11",
+    "@web3-onboard/react": "^2.2.2-alpha.1",
+    "ethers": "^5.6.9",
+    "express": "^4.18.1",
+    "highfi-chat-widget": "^0.1.1-a",
+    "sass": "^1.52.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JimmyDuBuque/laudantiumquae.git"
+  },
+  "homepage": "https://github.com/JimmyDuBuque/laudantiumquae.git",
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "buffer": "^6.0.3",
+    "crypto-browserify": "^3.12.0",
+    "https-browserify": "^1.0.0",
+    "os-browserify": "^0.3.0",
+    "process": "^0.11.10",
+    "react-app-rewired": "^2.2.1",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
+    "url": "^0.11.0"
+  }
+}
